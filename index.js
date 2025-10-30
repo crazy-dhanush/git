@@ -1,1 +1,1 @@
-console.log("Welcome to my git functions")
+console.log("Welcome to my git Functions")
